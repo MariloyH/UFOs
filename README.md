@@ -7,7 +7,8 @@ BootCamp Challenge Week 11
   We modify the original Canvas project adding another filters to perform very specific search, due we have a huge amount of data!!. 
 
 **UFO SIGTHINGS**
-<img width="420" alt="UFO_Sghtings_1" src="https://user-images.githubusercontent.com/102195803/175134008-63a9427a-91b2-4f88-bbd5-26783e916ae3.png"> <img width="420" alt="Captura de Pantalla 2022-06-22 a la(s) 16 03 20" src="https://user-images.githubusercontent.com/102195803/175136149-c0081cea-5f0c-4f35-a9a8-72b4850f6e2b.png">
+
+<img width="400" alt="UFO_Sghtings_1" src="https://user-images.githubusercontent.com/102195803/175134008-63a9427a-91b2-4f88-bbd5-26783e916ae3.png"> <img width="400" alt="Captura de Pantalla 2022-06-22 a la(s) 16 03 20" src="https://user-images.githubusercontent.com/102195803/175136149-c0081cea-5f0c-4f35-a9a8-72b4850f6e2b.png">
 
 We added  filters by city, state, country, and shape of the UFOs sightings: 
 
