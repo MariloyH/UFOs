@@ -14,17 +14,21 @@ BootCamp Challenge Week 11
 We added  filters by city, state, country, and shape of the UFOs sightings: 
 
 **FILTER BY STATE**
+
 <img width="380" alt="state" src="https://user-images.githubusercontent.com/102195803/175155574-26f92279-8541-48b4-b55c-912b3fb82f53.png">
 
 **FILTER BY COUNTRY**
+
 <img width="380" alt="country" src="https://user-images.githubusercontent.com/102195803/175155939-9196def3-47c9-402e-89e6-4964adadc386.png">
 
 **FILTER BY SHAPE**
+
 <img width="380" alt="Shape" src="https://user-images.githubusercontent.com/102195803/175156070-eab3837c-29c4-4e5c-b3e9-430c4f76b29b.png">
 
 We can even combine filters!!
 
 **FILTER COMBINED**
+
 <img width="430" alt="combined state shape" src="https://user-images.githubusercontent.com/102195803/175159176-0364df23-a658-446c-9708-0a14a441f4be.png">
 
 # SUMMARY
