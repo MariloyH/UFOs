@@ -31,7 +31,7 @@ We can even combine filters!!
 <img width="430" alt="combined state shape" src="https://user-images.githubusercontent.com/102195803/175159176-0364df23-a658-446c-9708-0a14a441f4be.png">
 
 # Summary
-This project was a very interesting exercise about JavaScript and  Front End Development. The resulting dynamic Web Page has all the data Dana asked us for, but the data its not in real time. It could be awesome if we could know the most recent sightings! Another disavantage that I see its that we have to know exatly what we are looking for, i.e. place or shape. May be for the places it could be too restrictive, but in the case of the shape, maybe we don´t know which form are been presented. Also, it could be awesome if we can see on a map where were the sightings, or even better, a small video of one specific sigkting. This Web page has a lot of potential!!! 
+This project was a very interesting exercise about JavaScript and  Front End Development. The resulting dynamic Web Page has all the data Dana asked us for, but the data its not in real time. It could be awesome if we could know the most recent sightings! Another disavantage that I see, its that we have to know exactly what we are looking for, i.e. place or shape. May be for the places it could be too restrictive, but in the case of the shape, maybe we don´t know which forms UFO had presented. Also, it could be awesome if we could see on a map where the sightings have been occurred, or even better, a small video of one specific sighting. This Web page has a lot of potential!!! 
 
 ## Drawback 
   1. Its not real time data.
